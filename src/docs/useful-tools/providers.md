@@ -156,6 +156,7 @@ You can select addons, like "Archive Mode" or "Trace Mode" for an additional cos
 
 - OP Mainnet
 - OP Goerli
+- OP Sepolia
 
 
 
